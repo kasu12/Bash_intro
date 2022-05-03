@@ -1,0 +1,8 @@
+1. mv
+2. touch
+3. it changes the directory
+4. ls -l, ls -a, ls -h
+5. rm
+6. absolute path is accessing file starting from root directory while relative path is accessing file starting from working directory
+
+
